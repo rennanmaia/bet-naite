@@ -147,3 +147,22 @@ As próximas funcionalidades a serem implementadas incluem:
 
 5. **Manter apostas**
    - Sistema de apostas completo
+
+
+## PROMPT 1
+
+Estou desenvolvendo uma aplicação para gestão de apostas de jogos diversos online. Esta aplicação deve ser desenvolvida em PHP, HTML, CSS, JS. Os dados serão aramazenados em banco de dados MySQL.
+
+Esta aplicação deve executar de modo online contendo as seguintes funcionalidades:
+
+Manter usuários
+1.1. Criar novo usuário
+1.2. Listar usuários
+1.3. Visualizar dados de um usuário
+1.4. Excluir usuário
+1.5. Entrar no sistema
+1.6. Sair do sistema
+O serviço de autenticação deve armazenar senhas criptografadas no banco de dados e token JWT.
+
+Crie todas as páginas para gestão de usuários, de modo que um usuário possa se auto cadastrar, entrar e sair do sistema, alterar seus dados cadastrais e sua senha e exibir uma página principal.
+Gere também o SQL criando as tabelas do banco de dados para serem importadas no SGBD MySQL.
